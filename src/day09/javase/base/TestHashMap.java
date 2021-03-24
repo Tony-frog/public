@@ -3,6 +3,7 @@ package day09.javase.base;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class TestHashMap {
 	public static void main(String[] args) {
 		//创建一个HashMap集合
