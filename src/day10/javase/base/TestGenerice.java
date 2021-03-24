@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 
  * @author tony
- *
+ *N
  */
 public class TestGenerice {
 	public static void main(String[] args) throws Exception {
